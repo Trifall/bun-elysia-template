@@ -1,0 +1,16 @@
+{
+	"name": "bun-elysia-template",
+	"module": "src/index.ts",
+	"type": "module",
+	"author": {
+		"name": "Jerren T",
+		"email": "Jerren@trifall.com"
+	},
+	"license": "GPL-3.0-or-later",
+	"devDependencies": {
+		"bun-types": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	}
+}
