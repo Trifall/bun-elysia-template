@@ -1,6 +1,14 @@
 # bun-elysia-template
+Lightweight bun template with a simple Elysia setup for quick access.
 
-To install dependencies:
+
+## Installation
+
+1. Install [bun](https://bun.sh/) if you haven't already
+
+2. Create a new repo from this template
+   
+3. Install dependencies:
 
 ```bash
 bun install
