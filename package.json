@@ -19,19 +19,19 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@elysiajs/cors": "^0.7.1",
-    "@elysiajs/swagger": "^0.7.3",
-    "elysia": "^0.7.15"
+    "@elysiajs/cors": "^0.7.2",
+    "@elysiajs/swagger": "^0.7.4",
+    "elysia": "^0.7.31"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.7.3",
-    "@typescript-eslint/parser": "^6.7.3",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
     "bun-types": "latest",
-    "eslint": "^8.50.0",
-    "eslint-config-prettier": "^9.0.0",
-    "husky": "^8.0.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "husky": "^8.0.3",
     "lint-staged": "^14.0.1",
-    "prettier": "^3.0.3",
+    "prettier": "^3.3.3",
     "typescript": "5.2.2"
   },
   "lint-staged": {
